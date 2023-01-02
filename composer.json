@@ -1,0 +1,22 @@
+{
+    "name": "praveendias1180/pdf",
+    "description": "Extending the FPDF functionality. Easy to use tag support i, em, b, etc.",
+    "keywords": ["pdf", "fpdf"],
+    "type": "library",
+    "require": {
+        "setasign/fpdf": "^1.8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Praveendias1180\\Pdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Praveen Dias",
+            "email": "praveendias1180@gmail.com",
+            "homepage": "https://github.com/praveendias1180/"
+        }
+    ]
+}
