@@ -1,6 +1,6 @@
 {
     "name": "praveendias1180/pdf",
-    "description": "Extending the FPDF functionality. Easy to use tag support i, em, b, etc.",
+    "description": "This package is for testing Composer and Packagist.",
     "keywords": ["pdf", "fpdf"],
     "type": "library",
     "require": {
